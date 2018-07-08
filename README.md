@@ -3,3 +3,5 @@ This is the code for the robot arm used by the Whitney Young Science Olympiad Te
 
 
 The arduino servo HAT was coded with arduino and Processing code to process computer keyboard input and move the servos.
+
+![Robot arm diagram](https://vauduong.github.io/src/img/projects/robot-arm.png)
